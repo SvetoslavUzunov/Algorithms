@@ -5,7 +5,7 @@ public class Program
 	public static void Main()
 	{
 		var number = int.Parse(Console.ReadLine());
-
+		
 		Draw(number);
 	}
 
