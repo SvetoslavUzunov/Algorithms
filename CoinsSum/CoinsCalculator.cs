@@ -47,7 +47,7 @@ public class CoinsCalculator
 
 		if (currentSum != targetSum)
 		{
-			throw new Exception("Try again");
+			throw new Exception("Try again!");
 		}
 
 		return result;
