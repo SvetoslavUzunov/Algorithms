@@ -23,6 +23,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Graphs", "Graphs", "{487727
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graphs", "Graphs\Graphs.csproj", "{104BE3D0-4078-4892-A355-FB3077EC8762}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopologicalSort", "TopologicalSort\TopologicalSort.csproj", "{DB724CF0-4285-46FA-8D45-1344FB39E61C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{104BE3D0-4078-4892-A355-FB3077EC8762}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{104BE3D0-4078-4892-A355-FB3077EC8762}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{104BE3D0-4078-4892-A355-FB3077EC8762}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB724CF0-4285-46FA-8D45-1344FB39E61C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB724CF0-4285-46FA-8D45-1344FB39E61C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB724CF0-4285-46FA-8D45-1344FB39E61C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB724CF0-4285-46FA-8D45-1344FB39E61C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -69,6 +75,7 @@ Global
 		{9CE2DDB5-FA47-447B-B430-771AA826323E} = {AEA0D3A8-677E-4FDB-BEE3-93A51B5D20CA}
 		{7560FA3D-D4B3-48DD-BA76-015C50447277} = {5C014D0E-A91E-4E20-8538-2B33F17348E5}
 		{104BE3D0-4078-4892-A355-FB3077EC8762} = {4877278D-79AC-4EE5-947C-4AAC381F2128}
+		{DB724CF0-4285-46FA-8D45-1344FB39E61C} = {4877278D-79AC-4EE5-947C-4AAC381F2128}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EFAC5934-2F0A-4131-9224-B8E3621DE02F}
