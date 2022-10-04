@@ -21,9 +21,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoinsSum", "CoinsSum\CoinsS
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Graphs", "Graphs", "{4877278D-79AC-4EE5-947C-4AAC381F2128}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graphs", "Graphs\Graphs.csproj", "{104BE3D0-4078-4892-A355-FB3077EC8762}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Graphs", "Graphs\Graphs.csproj", "{104BE3D0-4078-4892-A355-FB3077EC8762}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopologicalSort", "TopologicalSort\TopologicalSort.csproj", "{DB724CF0-4285-46FA-8D45-1344FB39E61C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TopologicalSort", "TopologicalSort\TopologicalSort.csproj", "{DB724CF0-4285-46FA-8D45-1344FB39E61C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dijkstra'sAlgorithm", "Dijkstra's algorithm\Dijkstra'sAlgorithm.csproj", "{2BF276A6-1B67-458C-8EF4-D0565E9C9DDF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{DB724CF0-4285-46FA-8D45-1344FB39E61C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB724CF0-4285-46FA-8D45-1344FB39E61C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB724CF0-4285-46FA-8D45-1344FB39E61C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BF276A6-1B67-458C-8EF4-D0565E9C9DDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BF276A6-1B67-458C-8EF4-D0565E9C9DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BF276A6-1B67-458C-8EF4-D0565E9C9DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BF276A6-1B67-458C-8EF4-D0565E9C9DDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -76,6 +82,7 @@ Global
 		{7560FA3D-D4B3-48DD-BA76-015C50447277} = {5C014D0E-A91E-4E20-8538-2B33F17348E5}
 		{104BE3D0-4078-4892-A355-FB3077EC8762} = {4877278D-79AC-4EE5-947C-4AAC381F2128}
 		{DB724CF0-4285-46FA-8D45-1344FB39E61C} = {4877278D-79AC-4EE5-947C-4AAC381F2128}
+		{2BF276A6-1B67-458C-8EF4-D0565E9C9DDF} = {4877278D-79AC-4EE5-947C-4AAC381F2128}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EFAC5934-2F0A-4131-9224-B8E3621DE02F}
